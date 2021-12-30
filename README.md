@@ -1,1 +1,1 @@
-# UdeM-Atelier
+# GISNUM-Atelier-sciences-des-donnees
